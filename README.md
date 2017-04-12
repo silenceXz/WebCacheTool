@@ -1,4 +1,4 @@
-# 网页缓存
+# 如何使用网页缓存工具类
 
 下载代码并导入项目中，然后在使用的地方引入#import "CacheFileManagerTool.h"即可。
 
